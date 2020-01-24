@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="minmargin">10dp</dimen>
+    <dimen name="minpadding">10dp</dimen>
+    <dimen name="spaceing">30dp</dimen>
+    <dimen name="hight">150dp</dimen>
+    <dimen name="width">150dp</dimen>
+</resources>
